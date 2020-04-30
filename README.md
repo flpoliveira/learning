@@ -25,7 +25,7 @@
 
   #### Settings.json do VSCode
 
-  <code>
+  ```json
       {
         "editor.suggestSelection": "first",
         "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
@@ -50,7 +50,7 @@
         "javascript.suggest.autoImports": false,
         "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
     }
-  </code>
+  ```
 
 
 
