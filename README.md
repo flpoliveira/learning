@@ -156,4 +156,9 @@
   * <span style="color: orange;">404: NOT FOUND</span>
 * <span style="color: red;">5xx</span>: Server Error
   * <span style="color: red;">500: INTERNAL SERVER ERROR</span>
+
+#### Middlewares
+
+* Função que recebe os parametros req/res, entre outros e faz algo dentro da aplicação, manipula esses dados na aplicação de resposta de alguma forma.
+
 </details>
