@@ -162,3 +162,4 @@
 * Função que recebe os parametros req/res, entre outros e faz algo dentro da aplicação, manipula esses dados na aplicação de resposta de alguma forma.
 
 </details>
+
